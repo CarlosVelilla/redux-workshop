@@ -1,1 +1,1 @@
-# redux-workshop for Assembler Institute of Technology
+# Redux workshop for Assembler Institute of Technology
